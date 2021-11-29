@@ -1,0 +1,15 @@
+Марка/Модель,Рама,Вилка,Перемикач задній,Вага,Ціна
+0.15,0.15,0.25,0.15,0.15,0.15
+CUBE ATTENTION,Алюмінієва,RockShox Judy Silver TK AIR,Shimano Deore RD-M4120 10-Speed,13.7,25810
+5,4,4,3,4,5
+CUBE ATTENTION SL,Алюмінієва,RockShox Judy Silver TK Air,Shimano XT RD-M8100 12-Speed,13.5,28850
+5,4,4,5,5,5
+Merida Big Trail 400,Карбонова,Suntour XCR34 LOR,Shimano Deore M5100,14.25,32832
+5,5,3,4,3,4
+ORBEA ALMA H50,Алюмінієва,RockShox 30 Silver TK Crown,Shimano Deore M5100,13.8,34263
+5,4,5,4,4,3
+CANNONDALE TRAIL SL 4,Алюмінієва,SR Suntour XCR-RL,Shimano Deore M5100,14,30196
+5,4,3,4,3,4
+SCOTT SCALE 970,Алюмінієва,RockShox Judy Silver TK Solo,SRAM SX Eagle,13.2,29948
+5,4,4,5,5,4
+
