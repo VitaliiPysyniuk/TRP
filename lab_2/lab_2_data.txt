@@ -1,0 +1,80 @@
+[
+    {
+        "probability": 1,
+        "balance": -830,
+        "children": [
+            {
+                "probability": 0.75,
+                "balance": 1000
+            },
+            {
+                "probability": 0.25,
+                "balance": -400
+            }
+        ]
+    },
+    {
+        "probability": 1,
+        "balance": -250,
+        "children": [
+            {
+                "probability": 0.75,
+                "balance": 900
+            },
+            {
+                "probability": 0.25,
+                "balance": -325
+            }
+        ]
+    },
+    {
+        "probability": 1,
+        "balance": 0,
+        "children": [
+            {
+                "probability": 0.7,
+                "balance": 0,
+                "children": [
+                    {
+                        "probability": 1,
+                        "balance": -830,
+                        "children": [
+                            {
+                                "probability": 0.9,
+                                "balance": 800
+                            },
+                            {
+                                "probability": 0.1,
+                                "balance": -320
+                            }
+                        ]
+                    },
+                    {
+                        "probability": 1,
+                        "balance": -250,
+                        "children": [
+                            {
+                                "probability": 0.9,
+                                "balance": 720
+                            },
+                            {
+                                "probability": 0.1,
+                                "balance": -260
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "probability": 0.3,
+                "balance": 0,
+                "children": [
+                    {
+                        "probability": 1,
+                        "balance": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
